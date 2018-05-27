@@ -1,0 +1,15 @@
+{
+  "name": "monster-mind-solver",
+  "version": "1.0.0",
+  "description": "Solve",
+  "main": "index.js",
+  "author": "Prance The Deer",
+  "scripts": {
+    "5pegs": "node ./solver/5pegs.solver.js",
+    "novice": "Node ./solver/novice.solver.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.0"
+  }
+}
